@@ -16,7 +16,7 @@ This simple but effective plugin allows you to clean up your WordPress database 
 
 WP-Optimize is an extensive WordPress database cleanup and optimization tool. It doesn't require PhpMyAdmin to clean and optimize your database tables. 
 
-<<<<<<< HEAD
+
 Please show your support for this plugin by giving it [a rating](http://wordpress.org/support/view/plugin-reviews/wp-optimize?rate=5#postform)!
 
 Now hosted at [GitHub](https://github.com/ruhanirabin/WP-Optimize). I do not monitor wp forums, so use plugins+support(at)ruhanirabin.com for support questions. 
