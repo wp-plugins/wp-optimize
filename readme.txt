@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: comments, spam, optimize, database, revisions, users, posts, trash, schedule, automatic, clean, phpmyadmin, meta, postmeta, responsive, mobile
 Requires at least: 3.7
 Tested up to: 3.9.1.nightly
-Stable tag: 1.8.3
+Stable tag: 1.8.4
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KYFUKEK7NXAZ8
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
